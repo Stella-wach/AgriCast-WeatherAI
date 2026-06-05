@@ -1,10 +1,10 @@
-# AgriCast — Smart Farming Weather Assistant
+# AgriCast - Smart Farming Weather Assistant
 
 A weather assistant built for smallholder farmers in Kenya and East Africa.
 AgriCast translates raw weather data into actionable farming decisions 
 telling farmers not just what the weather is, but what to do about it.
 
-Live Demo: https://agricast.vercel.app
+Live Demo: https://agri-cast-weather-ai.vercel.app/
 Built for: WeatherAI Developer Challenge
 
 ---
@@ -79,7 +79,7 @@ have surfaced during manual testing.
 Prerequisites: Node.js 18+, a WeatherAI API key from weather-ai.co
 
 ```bash
-git clone https://github.com/Stella-wach/agricast.git
+git clone https://github.com/Stella-wach/AgriCast-WeatherAI.git
 cd agricast
 npm install
 ```
